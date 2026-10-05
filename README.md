@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | PERN Stack | Learning DevOps & Cloud
 
-I'm a software developer focused on building practical, scalable web applications and expanding my skills into DevOps, cloud infrastructure, and deployment automation.
+I'm a software developer focused on building practical, scalable web applications and expanding my skills into DevOps, cloud infrastructure, and deployment automation.| Student at NCIT
 
 ---
 
